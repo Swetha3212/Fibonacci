@@ -1,7 +1,7 @@
 Fibonacci
 =========
 
-//Java program to print fibonacci series 
+
 public class Fibonacci {
   public static void main(String[] args) {
     int n0 = 1, n1 = 1, n2; // Initialize variables
